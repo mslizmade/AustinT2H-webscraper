@@ -8,7 +8,7 @@ This program is designed to read a list of addresses in Austin, Texas and determ
 ## Installation
 Successful implementation requires the use of Google Chrome, Chromedriver, and selenium.
 <br> Chrome available for download [here](https://www.google.com/chrome/)
-<br>Chromedriver vailable for download [here](https://chromedriver.chromium.org/downloads)
+<br>Chromedriver available for download [here](https://chromedriver.chromium.org/downloads)
 <br>Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary selenium webdriver.
 
 ```bash
